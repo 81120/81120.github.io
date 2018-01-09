@@ -9,14 +9,14 @@ url: "https://81120.github.io" # the base hostname & protocol for your site, e.g
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Guangyi Hu # add your name
+author-img: heart.jpg # add your photo
+about-author: A front-end developer, trying to be fun # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
+github: 81120 # add your Github handle
 linkedin: # add your Linkedin handle
-email: # add your Email address
+email: nicolas.leo.hu@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
