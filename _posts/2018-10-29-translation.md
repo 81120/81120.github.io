@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [翻译]Javascript高阶技巧-memoization
+title: Javascript高阶技巧-memoization(翻译)
 date: 2018-10-29 13:53:20 +0300
 description: 翻译. # Add post description (optional)
 img: # Add image post (optional)
