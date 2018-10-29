@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Guangyi Hu # add your name
 author-img: heart.jpg # add your photo
-about-author: A front-end developer, trying to be fun # add description
+about-author: An engineer, front-end-developer is just a title # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: 81120 # add your Github handle
@@ -22,7 +22,7 @@ email: nicolas.leo.hu@gmail.com # add your Email address
 discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: Google Analytics
 
 # Build Settings
 markdown: kramdown
